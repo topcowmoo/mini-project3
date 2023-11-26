@@ -44,4 +44,4 @@ if (playAgain) {
 }
 };
 
-// playGame();
+playGame();
