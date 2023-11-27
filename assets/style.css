@@ -1,9 +1,3 @@
-.hover:hover {
-    --p: 100%;
-    color:#fff;
-    
-}
-
 h1 {
     background-image: url('/mini-project3/assets/images/screenshot/mynaplesset.png'); 
     background-size: cover;
@@ -14,4 +8,6 @@ h1 {
     font-weight: 150;
     cursor: pointer;
     display: block;
+    color: #362e2e; 
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
 }
